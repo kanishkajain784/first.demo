@@ -1,3 +1,5 @@
 # first.demo
 This is my first git repository
--kanishka jain
+Author name-kanishka jain
+
+
